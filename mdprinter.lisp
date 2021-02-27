@@ -1,6 +1,6 @@
 ;;;; mdprinter.lisp
 
-(cl:in-package #:scrillex)
+(cl:in-package #:3bmd2docx)
 
 ;;;; 3bmd markdown printer
 
